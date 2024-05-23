@@ -3,7 +3,7 @@ sky:
     driver-class-name: 
     host: 
     port: 
-    database: s
+    database: 
     username: 
     password: 
   alioss:
